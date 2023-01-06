@@ -56,7 +56,7 @@ python serapis.py --train --labels eagle, bull, lion, man --use-old-images --ima
 To use a previously trained model, you will need to provide the path to the trained model and an image to classify.
 
 ```bash
-python serapis.py --train --model-path models/1.pth --image-path lionimage.jpg
+python serapis.py --model-path models/1.pth --image-path lionimage.jpg
 ```
 
 ---
