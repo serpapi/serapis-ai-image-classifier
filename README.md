@@ -16,7 +16,7 @@
 
 You can install these dependencies using the following command:
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ---
