@@ -1,0 +1,6 @@
+pandas==1.4.4
+Pillow==9.4.0
+requests==2.28.1
+torch==1.13.0
+torchvision==0.13.1a0
+transformers==4.24.0
